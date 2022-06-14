@@ -1,0 +1,11 @@
+{
+    "board_manager": {
+        "additional_urls": [
+            "https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json"
+        ]
+    },
+    "directories": {
+        "data": "./arduino/data",
+        "user": "./arduino/user"
+    }
+}
